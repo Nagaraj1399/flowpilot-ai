@@ -1,0 +1,8 @@
+{
+  "name": "FlowPilot AI",
+  "description": "On-device intelligent work autopilot with invariant-driven self-healing workflows and seamless Office Kit laptop bridging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
